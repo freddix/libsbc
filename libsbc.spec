@@ -1,11 +1,11 @@
 Summary:	Bluetooth Subband Codec (SBC) library
 Name:		libsbc
-Version:	1.2
-Release:	2
+Version:	1.3
+Release:	1
 License:	GPL/LGPL
 Group:		Libraries
 Source0:	http://www.kernel.org/pub/linux/bluetooth/sbc-%{version}.tar.xz
-# Source0-md5:	ec65c444ad4c32aa85702641045b19e9
+# Source0-md5:	2d8b7841f2c11ab287718d562f2b981c
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	libtool
